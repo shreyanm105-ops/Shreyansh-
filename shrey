@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My First Frontend</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Welcome Shreyansh 👋</h1>
+        <p id="text">This is my first frontend project</p>
+        <button onclick="changeText()">Click Me</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
